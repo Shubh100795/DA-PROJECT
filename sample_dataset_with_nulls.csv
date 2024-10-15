@@ -1,0 +1,11 @@
+Name,Age,Gender,Salary,Department,JoinDate,Bonus
+John Doe,29.0,Male,50000.0,Sales,2018-05-22,5000.0
+Jane Smith,35.0,Female,62000.0,HR,2017-11-01,
+Sara Connor,42.0,Female,72000.0,IT,2015-04-15,8000.0
+Michael Lee,,Male,,Marketing,2020-02-10,4000.0
+David Brown,50.0,Male,80000.0,Sales,2010-08-22,9000.0
+Emily White,28.0,Female,58000.0,HR,,
+Liam Johnson,45.0,Male,92000.0,IT,2012-12-18,
+Emma Davis,30.0,Female,61000.0,Marketing,2019-06-20,5500.0
+Noah Green,33.0,Male,,,2016-10-11,6000.0
+Olivia Black,,Female,67000.0,Sales,2021-03-07,
